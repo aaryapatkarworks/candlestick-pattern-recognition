@@ -1,0 +1,5 @@
+Model,Accuracy,Precision,Recall,F1,AUC
+Baseline (majority class),0.5366,0.5366,1.0,0.6984,
+Sol1 Rule-based + FS + kNN,0.5145,0.5449,0.5778,0.5609,0.5007
+Sol2 HOG + FS + SVM,0.523,0.5365,0.8159,0.6474,0.5267
+Sol3 CNN,0.5366,0.5366,1.0,0.6984,0.5034
